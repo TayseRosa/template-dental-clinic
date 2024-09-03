@@ -1,3 +1,6 @@
+### Projeto online
+https://dentalclinictemplate.tayserosa.com/
+
 <a href="https://www.tayserosa.com">
 <img src="./LP_DentalClinic.png" target="_blank" alt="Tayse Rosa">
 </a>
@@ -29,7 +32,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 
 <a href="https://www.tayserosa.com">
-<img src="./assets/readme-footer.png" target="_blank" alt="Tayse Rosa">
+<img src="./about_developer.png" target="_blank" alt="Tayse Rosa">
 </a>
 
 Copyright :copyright: 2024 · Desenvolvido por 💜 Tayse Rosa        
